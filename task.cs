@@ -1,5 +1,5 @@
 using System; 
-namespace Oop;  
+namespace   Task oss;  
 public class Person{
     private string _name;
     public string Name{
